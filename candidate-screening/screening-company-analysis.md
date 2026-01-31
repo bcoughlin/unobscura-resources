@@ -1,806 +1,311 @@
-# Applicant Screening Company Analysis
-## Evaluating Methodologies Through Neurodivergent Hiring Lens
+# Screening Platform Guide for Neurodivergent Job Seekers
 
-**Date:** January 31, 2026 (Updated)  
-**Purpose:** Document how current screening technologies create systematic blind spots and identify improvement opportunities
+**Last Updated:** January 31, 2026
 
----
-
-## Evaluation Framework
-
-For each company, we assess:
-
-1. **Core Methodology** - What assessment approach they use
-2. **Blind Spot Analysis** - Where neurodivergent competence gets filtered out
-3. **Business Model** - Incentive alignment/conflicts with our mission
-4. **Improvement Potential** - How our frameworks could enhance their offering
-5. **Partnership Viability** - Collaborate, compete, or avoid?
-6. **Strategic Category** - Tier 1/2/3 target based on alignment
-
-### Rating System
-
-**Blind Spot Severity:**
-- 🔴 HIGH - Methodology actively amplifies neurotype bias
-- 🟡 MEDIUM - Creates some false negatives but could be improved
-- 🟢 LOW - Already attempting to reduce bias (may still have issues)
-
-**Partnership Viability:**
-- ✅ STRONG - Aligned mission, collaborative potential
-- ⚠️ CAUTIOUS - Some alignment but significant concerns
-- ❌ CONFLICT - Fundamental ideological/business model conflict
-- 🔄 COMPETITIVE - They could pivot to compete with us
+This guide helps neurodivergent professionals understand what to expect from different screening platforms and which ones are more accommodating of different cognitive processing styles.
 
 ---
 
-## Company Categories
+## How to Use This Guide
 
-### Infrastructure vs. Screening vs. Marketplaces
+When applying to jobs, companies often use third-party platforms for technical assessments, video interviews, or other screening. Understanding these platforms helps you:
 
-**ATS Providers (Category 1):**
-- Workflow orchestration platforms
-- Don't do screening themselves - integrate with others
-- Partnership opportunity: Distribution channel for frameworks
-- Examples: Greenhouse, Lever, Workable
-
-**General Applicant Screening (Category 2):**
-- Screen candidates across ALL roles (not just technical)
-- Resume analysis, video interviews, behavioral assessment
-- Broadest potential impact but hardest to change
-- Examples: SquarePeg, HireVue, Pymetrics
-
-**Technical/Software Engineering Screening (Category 3):**
-- Specialized for software engineering roles
-- Code challenges, technical interviews, algorithm tests
-- YOUR STRONGEST EXPERTISE - you've taken these assessments
-- Highest strategic value for your background
-- Examples: Codility, HackerRank, Karat, Interviewing.io, Candora
-
-**Pre-Screening Tools (Category 4):**
-- Job descriptions, sourcing, initial filtering
-- Complementary to screening
-- Examples: Textio, sourcing platforms
-
-**Neurodivergent Job Marketplaces (Category 5):**
-- Create separate hiring channels
-- Work around mainstream screening (don't fix it)
-- Examples: Mentra, NeuroBooster
-
-**Background/Verification (Category 6):**
-- Identity and employment verification
-- Lower priority - not methodology-focused
-- Examples: Checkr, Sterling
+- Know what to expect during the process
+- Request appropriate accommodations
+- Make informed decisions about which opportunities to pursue
+- Prepare for specific platform formats
 
 ---
 
-## Category 1: ATS Providers (Infrastructure)
+## Understanding Screening Categories
 
-**What They Do:** Workflow orchestration platforms - they don't screen candidates themselves, they integrate with screening tools.
+### Technical Coding Platforms
+Used by tech companies to assess software engineering skills through timed coding challenges.
 
-**Strategic Value:** Distribution channel. If you build assessment frameworks, they could integrate and distribute to thousands of companies.
+### Video Interview Platforms  
+Record or conduct live video interviews, sometimes with AI analysis of responses.
 
-**Key Insight:** They're neutral infrastructure. Not competing on methodology, so partnership is non-threatening.
-
-### Greenhouse
-**Website:** https://www.greenhouse.com  
-**Core Methodology:** Workflow orchestration + integrations with assessment tools  
-**Blind Spot Analysis:** 🟡 MEDIUM
-- Neutral infrastructure, but default workflows enforce traditional screening
-- Structured interview guides can miss atypical communication styles
-- Heavy reliance on integrated assessment tools (inherits their biases)
-
-**Improvement Potential:**
-- Could integrate alternative assessment frameworks as plugins
-- Could add "neurodivergent hiring mode" workflow templates
-- Already has diversity hiring focus - natural extension
-
-**Business Model:** Subscription SaaS - incentivized by customer retention/expansion  
-**Partnership Viability:** ✅ STRONG
-- Infrastructure play - not competing on assessment methodology
-- Large enterprise reach through existing customer base
-- Already markets diversity hiring capabilities
-
-**Strategic Value:** Tier 1 - Integration partner. If we build assessment frameworks, Greenhouse could distribute them.
+### General Assessment Platforms
+Evaluate cognitive skills, personality traits, or job fit through games or questionnaires.
 
 ---
 
-### Lever
-**Website:** https://www.lever.co  
-**Core Methodology:** Modern ATS with talent CRM  
-**Blind Spot Analysis:** 🟡 MEDIUM
-- Similar to Greenhouse - infrastructure not methodology
-- Strong API makes integration easier
+## Platform Assessments
 
-**Improvement Potential:**
-- API-first architecture = easier to integrate alternative assessments
-- Smaller than Greenhouse = potentially more agile
+### ✅ More Neurodivergent-Friendly Options
 
-**Business Model:** Subscription SaaS  
-**Partnership Viability:** ✅ STRONG  
-**Strategic Value:** Tier 1 - Alternative to Greenhouse if they're more receptive
+#### **Interviewing.io** - Technical Screening
+**What they do:** Anonymous voice-only technical interviews (no video)
 
----
+**Why this is better:**
+- No visual bias - removes facial expression analysis
+- Voice-only format reduces sensory overwhelm
+- Anonymity can reduce anxiety for some candidates
+- Human interviewers (not AI)
 
-### Workable
-**Website:** https://www.workable.com  
-**Core Methodology:** SMB-focused ATS  
-**Blind Spot Analysis:** 🟡 MEDIUM
+**Still challenging:**
+- Live, synchronous format
+- Timed assessments
+- "Think aloud" while coding expected
 
-**Improvement Potential:**
-- SMB market might be easier entry point (less complex sales)
-- Could differentiate by being "first ATS with neurodivergent hiring features"
-
-**Business Model:** Subscription SaaS  
-**Partnership Viability:** ✅ STRONG  
-**Strategic Value:** Tier 2 - Smaller market but potentially faster adoption
-
-**Notes:** Targets 50-500 employee companies. Could be ideal testing ground before enterprise.
+**Accommodation strategies:**
+- Request asynchronous alternative if available
+- Ask if you can provide written explanations instead of verbal
 
 ---
 
-## Category 2: General Applicant Screening Companies
+#### **Karat** - Technical Screening
+**What they do:** Human-led technical interviews (outsourced)
 
-**What They Do:** AI-powered screening for ALL types of roles (not just technical). Resume analysis, video interviews, behavioral assessments, personality tests.
+**Why this is better:**
+- Real humans conducting interviews (more flexible than AI)
+- Interviewers can adapt to different communication styles
+- More accommodation possible than automated systems
 
-**Strategic Value:** Broadest potential impact across industries, but methodology changes are hardest here.
+**Still challenging:**
+- Live, synchronous interviews
+- Standardized evaluation rubrics
+- Communication style still matters
 
-**Key Insight:** These platforms create systematic bias because they learn from historical hiring patterns. They screen for ALL roles (marketing, sales, operations, etc.), not just technical. If we can fix these, we fix screening everywhere - but they're the most resistant to change because "this is how hiring works."
-
----
-
-### HireVue
-**Website:** https://www.hirevue.com  
-**Core Methodology:** Video interviewing + AI analysis of facial expressions, word choice, tone  
-
-**Blind Spot Analysis:** 🔴 HIGH (SEVERE)
-- Analyzes facial expressions = discriminates against flat affect (common in autism)
-- Analyzes tone/prosody = discriminates against monotone speech
-- Analyzes word choice = penalizes literal/direct communication
-- Timed video responses = discriminates against slower processing speeds
-- Eye contact analysis (if used) = discriminates against autistic candidates
-
-**Specific Problems:**
-1. Autistic candidates systematically scored lower due to facial expression analysis
-2. ADHD candidates penalized for fidgeting or looking away
-3. Processing time differences not accommodated
-4. Anxiety visible in body language = scored as "not confident"
-5. Literal answers to behavioral questions = "not understanding the question"
-
-**The Most Problematic General Screening Platform:**
-- More explicitly analyzing neurological differences (facial expressions, tone)
-- Applied to ALL roles (broader harm)
-- Has faced legal challenges and continues anyway
-- Less technical defensibility ("how does facial expression predict job performance?")
-- Multiple lawsuits/complaints about discriminatory AI
-- Some jurisdictions banning their facial analysis features
-
-**Improvement Potential:**
-- Would require fundamental methodology overhaul (analyzing different signals)
-- Have been sued multiple times for bias - may be receptive to alternatives
-- Could disable facial/tone analysis, focus purely on content quality
-
-**Business Model:** Enterprise SaaS  
-**Partnership Viability:** ⚠️ CAUTIOUS
-- They've faced legal/PR challenges around bias - might be motivated to improve
-- But their core technology is the problem - would need to rebuild
-- Large enterprise reach if they adopted better methods
-
-**Strategic Value:** Tier 2 - Worth engaging IF they acknowledge current problems. Otherwise avoid.
-
-**Research Value:** Clear example of how NOT to assess candidates. Could use in presentations.
+**Accommodation strategies:**
+- Mention you're autistic/ADHD if comfortable - some interviewers adapt
+- Request extra processing time
+- Ask if project-based assessment is alternative option
 
 ---
 
-### Pymetrics
-**Website:** https://www.pymetrics.com  
-**Core Methodology:** Neuroscience-based games assessing cognitive/emotional traits  
+### ⚠️ Platforms with Significant Challenges
 
-**Blind Spot Analysis:** 🟡 MEDIUM
-- Claims to be bias-reducing, but games are still timed/speed-based
-- Cognitive trait matching assumes one "right" profile per role
-- Games may not translate to actual job performance
-- Processing speed differences penalized in timed games
+#### **Codility** - Technical Screening
+**What they do:** Timed coding challenges with automated scoring
 
-**Specific Problems:**
-1. Timed games discriminate against slower processors
-2. Assumes cognitive traits are fixed (ignores accommodation potential)
-3. Pattern-matching means diverse thinking styles get filtered out
-4. "Cultural fit" matching may be coded neurotype matching
+**Challenges for neurodivergent candidates:**
+- Strict time limits favor speed over thoughtfulness
+- Live coding with observation creates performance anxiety
+- "Think aloud" requirement difficult for many processing styles
+- Algorithm puzzles don't reflect real development work
+- Bottom-up thinkers need more time to verbalize approach
 
-**Improvement Potential:**
-- Already positioning as "fair hiring" - philosophical alignment
-- Could add untimed versions of assessments
-- Could partner on research about cognitive diversity
-- May be open to "here's what your games miss" conversation
+**What to expect:**
+- 60-90 minute timed challenges
+- Someone may watch you code in real-time
+- Expected to explain your thinking verbally while coding
+- Scored on correctness, efficiency, and communication
 
-**Business Model:** Enterprise SaaS  
-**Partnership Viability:** ✅ STRONG
-- Already trying to solve bias problem (even if imperfectly)
-- Research-oriented company culture
-- May see us as complementary rather than competitive
-
-**Strategic Value:** Tier 1 - Most aligned of the AI screening companies. Worth early engagement.
+**Accommodation strategies:**
+- Request untimed version or take-home alternative
+- Ask if you can submit written explanation instead of verbal
+- Explain you process information differently but produce quality code
+- Request project-based assessment showing real-world skills
 
 ---
 
-### SquarePeg
-**Website:** https://www.squarepeg.ai  
-**Location:** Salt Lake City, UT (LOCAL)  
-**Core Methodology:** AI scoring based on resume analysis + historical hiring patterns  
+#### **HackerRank** - Technical Screening
+**What they do:** Coding challenges with competitive leaderboards
 
-**Blind Spot Analysis:** 🔴 HIGH
-- "Reads between the lines" = penalizes direct/literal communication
-- Learns from historical hiring data = perpetuates existing bias
-- "Human-level accuracy" claim assumes humans are unbiased (they're not)
-- Speed optimization ("inbox zero") = faster elimination, not better assessment
-- "Glass-box AI" shows WHY candidates were rejected, but doesn't fix biased reasoning
-
-**Specific Problems:**
-1. Non-linear career paths get scored lower (interest-driven career moves look unfocused)
-2. Unconventional communication styles (literal, detailed) get penalized
-3. Alternative work arrangements (remote-only) may be seen as "inflexible"
-4. Gaps in employment history (common for neurodivergent people) = red flag
-5. No mention of accounting for different cognitive processing speeds
-
-**Business Model:** Pay-per-job-post + ATS integration fees  
-**Incentive Conflict:** Making money from speed = incentive to eliminate faster, not more carefully
-
-**Partnership Viability:** ❌ CONFLICT + 🔄 COMPETITIVE
-- Fundamental philosophical conflict (speed vs. thoroughness)
-- Local presence means potential competitive overlap
-- If they see the market opportunity, they could pivot faster than we can build
-
-**Strategic Value:** Tier 3 - Competitor more than partner. Document their approach as "what not to do."
-
-**Notes:** 
-- Claire McTaggart (founder) has relationships with local companies (Podium, JobNimbus)
-- Their case studies brag about "800+ applications → 39 candidates in 10 seconds" = extreme filtering
-
----
-
-## Category 3: Technical/Software Engineering Screening Companies
-
-**What They Do:** Specialized assessment for software engineering candidates. Code challenges, technical interviews, algorithm tests, system design.
-
-**Strategic Value:** THIS IS YOUR HIGHEST-VALUE TARGET. You have:
-- Firsthand experience taking these assessments
-- Deep technical credibility
-- Can speak engineer-to-engineer about what's broken
-- Can build proof-of-concept alternatives
-- Can demonstrate where current methods create false negatives
-
-**Key Insight:** Technical screening is where you're strongest, and it's a HUGE market (every tech company hires engineers). These platforms are also most receptive to "here's a better way to assess actual job skills" because they know algorithms ≠ real development work.
-
----
-
-### Codility
-**Website:** https://www.codility.com  
-**Core Methodology:** Timed coding challenges + automated grading  
-
-**Blind Spot Analysis:** 🔴 HIGH
-- Live coding under observation = high anxiety environment
-- Timed challenges = discriminates against slower but thorough processors
-- Algorithmic puzzles ≠ actual job skills
-- No accommodation for different problem-solving approaches
-- Assumes quick verbal explanation = competence
-
-**Specific Problems:**
-1. Bottom-up thinkers need more time to verbalize approach
-2. Anxiety under observation tanks performance
-3. Algorithm knowledge ≠ real-world development skills
-4. No credit for thoroughness, only speed
-5. "Think aloud" requirement is unnatural for many neurodivergent developers
-
-**Your Advantage:** YOU'VE TAKEN THEIR ASSESSMENTS - you know exactly where they fail
-
-**Improvement Potential:**
-- Could offer asynchronous alternatives to live coding
-- Could add "untimed, take-home" track that's still monitored
-- Could assess work product quality, not just speed
-- Could allow written explanation instead of verbal
-
-**Business Model:** Per-assessment fees  
-**Partnership Viability:** ⚠️ CAUTIOUS
-- Large market presence = big impact if they improve
-- But business model incentivizes standardization (speed = scale)
-
-**Strategic Value:** Tier 1 - You have firsthand experience with their blind spots. High research value.
-
----
-
-### HackerRank
-**Website:** https://www.hackerrank.com  
-**Core Methodology:** Coding challenges + competitions  
-
-**Blind Spot Analysis:** 🔴 HIGH
+**Challenges for neurodivergent candidates:**
+- Gamification and competition can increase anxiety
+- Time pressure eliminates methodical problem-solvers
+- Focus on algorithm speed, not code quality
 - Similar issues to Codility
-- Gamification/competition may be demotivating for some
-- Leaderboard culture = anxiety amplification
-- Focus on algorithm speed, not real development skills
 
-**Specific Problems:**
-1. Competitive framing alienates collaborative thinkers
-2. Time pressure eliminates careful, methodical engineers
-3. Algorithm puzzles don't predict job performance
-4. No assessment of code quality, documentation, testing approach
+**What to expect:**
+- Timed challenges (typically 60-120 minutes)
+- May include leaderboard showing your ranking
+- Problems focus on algorithms/data structures
 
-**Strategic Value:** Tier 1 - Major player in technical screening
-
----
-
-### Karat
-**Website:** https://www.karat.com  
-**Core Methodology:** Outsourced technical interviews (human interviewers)  
-
-**Blind Spot Analysis:** 🟡 MEDIUM
-- Human interviewers = less standardized bias but still traditional format
-- Live interviewing with strangers = anxiety
-- Trained on "what good looks like" = may miss atypical excellence
-
-**Specific Problems:**
-1. Still live/synchronous (anxiety-inducing)
-2. Interviewers trained on traditional signals
-3. "Soft skills" assessment may penalize neurodivergent communication
-4. No accommodation for processing time differences
-
-**Improvement Potential:**
-- Could train interviewers on neurodivergent communication patterns
-- Could offer asynchronous alternatives
-- Human flexibility = could adapt to candidates better than AI
-- Could implement "judge the work product, not the performance"
-
-**Business Model:** Interview-as-a-service (per interview fees)  
-**Partnership Viability:** ✅ STRONG
-- Humans can be trained (unlike hardcoded AI)
-- Positioning as "quality interviewing" not "fast screening"
-- May be receptive to "here's what your interviewers miss"
-
-**Strategic Value:** Tier 1 - Human-in-loop = more adaptable than pure AI solutions
+**Accommodation strategies:**
+- Same as Codility
+- Ask if company values quality over speed
+- Propose alternative: GitHub portfolio review
 
 ---
 
-### Interviewing.io
-**Website:** https://interviewing.io  
-**Core Methodology:** Anonymous technical interviews (voice-only, no video)  
+#### **HireVue** - Video Interviews (⚠️ High Concern)
+**What they do:** Record video responses, AI analyzes facial expressions, tone, and words
 
-**Blind Spot Analysis:** 🟢 LOW (BEST OF TECHNICAL SCREENING)
-- Already trying to reduce bias via anonymity
-- Voice-only reduces visual bias
-- Still has timing/live coding issues but better than most
+**Why this is particularly problematic:**
+- **AI analyzes facial expressions** - discriminates against autistic flat affect
+- **Analyzes tone and speech patterns** - penalizes monotone speech
+- **Scores body language** - penalizes stimming, fidgeting, looking away
+- **Timed responses** - no accommodation for processing differences
 
-**Specific Problems:**
-1. Still live/synchronous
-2. Still timed
-3. Still "think aloud" requirement
-4. Voice-only helps but doesn't eliminate all neurotype signals
+**What to expect:**
+- Record yourself answering behavioral questions
+- Usually 30 seconds to prepare, 1-3 minutes to answer
+- AI scores your response before human review
+- May eliminate you before human sees your application
 
-**Improvement Potential:**
-- Already philosophically aligned (reducing bias)
-- Could add asynchronous track
-- Could allow written explanations
-- Could be VERY receptive to "here's how to improve further"
+**This platform has been sued for discrimination and banned in some jurisdictions.**
 
-**Business Model:** Marketplace + interview prep  
-**Partnership Viability:** ✅ STRONG (HIGHEST)
-- Already mission-aligned
-- Founded by someone who experienced interview bias firsthand
-- Small/agile enough to implement changes
-- May see us as complementary
-
-**Strategic Value:** Tier 1 - HIGHEST ALIGNMENT in technical screening space
-
-**Notes:**
-- Founder (Aline Lerner) has written extensively about interview bias
-- Most philosophically aligned technical screening platform
+**Accommodation strategies:**
+- Request human-only interview as accommodation
+- Cite ADA/disability accommodation if comfortable
+- Consider: Is this a company you want to work for if they use this platform?
 
 ---
 
-### Candora (acquired by Paraform)
-**Website:** https://candora.ai  
-**Core Methodology:** AI interviewer "Atlas" conducts real-time technical interviews
-- Covers: coding, system design, behavioral, project building
-- Automated evaluation of code quality, problem-solving, technical depth
-- Positions as replacement for human interviewers in early screening
+#### **Pymetrics** - Cognitive/Behavioral Games
+**What they do:** "Neuroscience-based" games to assess cognitive and emotional traits
 
-**Blind Spot Analysis:** 🔴 HIGH
+**Challenges for neurodivergent candidates:**
+- Timed games disadvantage slower processors
+- Assumes one "right" cognitive profile per role
+- Processing speed differences = lower scores
+- Games may not predict actual job performance
 
-**Specific Problems for Neurodivergent Candidates:**
-1. **Real-time performance anxiety** - AI interviewer still creates observation pressure
-2. **"Think aloud" requirement** - Has to explain approach while coding (unnatural for many)
-3. **Communication style bias** - AI trained on "typical" engineer communication patterns
-4. **No accommodation flexibility** - Automated system can't adjust to different processing styles
-5. **System design "whiteboarding"** - Still favors quick verbal articulation over deep thinking
-6. **Behavioral assessment** - AI analyzing "team dynamic fit" likely reinforces neurotypical patterns
+**What to expect:**
+- 20-30 mini-games taking 25-30 minutes total
+- Tests things like: risk tolerance, attention, emotion recognition
+- Compared to "ideal profile" for role
 
-**Critical Question:** What data was their AI trained on? If trained on historical hiring decisions, it inherits all existing biases.
-
-**Why This Is Problematic:**
-- **Replaces human flexibility with algorithmic rigidity** - At least human interviewers can adapt
-- **"Consistent" ≠ "Fair"** - Consistently biased is worse than variably biased
-- **Scale amplifies harm** - "Hundreds of interviews simultaneously" = hundreds of false negatives
-- **Technical equivalent of HireVue** - Same fundamental approach, different domain
-
-**Comparison to HireVue:**
-- **HireVue:** Analyzes facial expressions, tone, body language for general roles
-- **Candora:** Analyzes code, problem-solving, technical communication for engineering
-- **Same Problem:** AI trained on historical patterns perpetuates systematic exclusion
-
-**Partnership Viability:** ⚠️ CAUTIOUS
-- Could be receptive to "here's what your AI is missing"
-- But business model built on automation = resistance to complexity
-- Founded by IITians (Indian Institute of Technology) = technical credibility
-
-**Strategic Value:** Tier 2 - High impact if fixable, but automation-first model is concerning
+**Accommodation strategies:**
+- Request untimed version
+- Ask what traits they're measuring and why
+- Question: How do these games predict job success?
 
 ---
 
-### Paraform (acquired Candora)
-**Website:** https://www.paraform.com  
-**Type:** Hybrid - Recruiter marketplace + AI technical interviewer
+### 🔴 Newer AI-Powered Platforms (Proceed with Caution)
 
-**What They Do:**
-- Marketplace connecting companies with independent recruiters
-- Recruiters source and submit candidates
-- Now owns Candora's AI technical interviewer
-- Platform provides tools (CRM, sourcing, scheduling)
+#### **Candora** - AI Technical Interviewer
+**What they do:** AI named "Atlas" conducts live technical interviews
 
-**The Strategic Tension:**
-- **States:** "AI to supercharge recruiters, not replace them"
-- **But acquired:** AI interviewer that conducts interviews WITHOUT humans
-- **Question:** Is this recruiter empowerment or gradual automation?
+**Challenges:**
+- AI interviewer can't adapt to different communication styles
+- Trained on "typical" engineer patterns (potential bias)
+- Real-time pressure with no human flexibility
+- "Consistent" evaluation may mean consistently biased
 
-**Business Model:**
-- Listing fee (subscription) for companies to post roles
-- Success fee when hire is made
-- Recruiters earn bounties for successful placements
+**What to expect:**
+- Live coding interview with AI
+- AI asks questions and evaluates responses
+- System design and behavioral questions
+- Scored automatically on technical and communication
 
-**Funding:** $20M Series A from Felicis (June 2025)  
-**Clients:** Palantir, Cursor, Windsurf, Ramp, Decagon
-
-**Blind Spot Analysis:** 🔴 HIGH (AI component) + 🟡 MEDIUM (recruiter layer)
-
-**The Key Questions:**
-1. **How is Candora integrated?** 
-   - Does AI screen autonomously before recruiters see candidates?
-   - Or do recruiters use AI as support tool?
-   - Can recruiters override AI decisions?
-
-2. **What training do recruiters get?**
-   - On recognizing neurodivergent communication patterns?
-   - On bias in technical screening?
-
-3. **Are they expanding beyond technical?**
-   - Currently technical screening only
-   - Will they build toward HireVue-style general screening?
-
-**Potential Scenarios:**
-
-**Scenario A (Problematic):**
-- AI conducts initial interviews autonomously
-- Candidates screened out before recruiter sees them
-- = All Candora problems, recruiter layer doesn't help
-
-**Scenario B (Potentially Better):**
-- Recruiters use AI as support tool
-- AI provides insights, recruiters make decisions
-- Recruiters can advocate for candidates AI flags incorrectly
-- = Hybrid approach could be improved with better frameworks
-
-**Partnership Viability:** ⚠️ CAUTIOUS BUT INTERESTING
-- Hybrid model creates opportunity
-- Recruiters want successful placements = incentive for better assessment
-- Well-funded, strong partnerships
-- But automation focus is concerning
-
-**Strategic Value:** Tier 1-2 (depending on integration approach)
-
-**Your Opportunity:**
-- "Here's where your AI systematically creates false negatives"
-- "Here's how to train recruiters to recognize neurodivergent competence"
-- "Better assessment methods = better placements = higher success fees"
-
-**Research Priority:**
-- Understand Candora integration
-- Monitor for expansion beyond technical roles
-- Assess recruiter training on bias
+**Accommodation strategies:**
+- Request human interviewer instead
+- Ask how AI was trained (on what data?)
+- Question whether "consistency" accounts for neurodiversity
 
 ---
 
-## Category 4: Pre-Screening & Job Description Tools
+## General Accommodation Strategies
 
-**What They Do:** Tools that work BEFORE the screening phase. Job description optimization, sourcing tools, initial filtering.
+### Before the Assessment
 
-**Strategic Value:** Complementary to your screening methodology work. Job descriptions are the first touch point.
+**1. Disclose if comfortable:**
+- "I'm autistic/have ADHD and process information differently"
+- "I produce high-quality work but may need accommodations"
+- Request specific adjustments
 
----
+**2. Request alternatives:**
+- Asynchronous instead of live
+- Project-based instead of algorithm puzzles  
+- Written explanations instead of verbal
+- Extra time for processing
 
-### Textio
-**Website:** https://textio.com  
-**Core Methodology:** Job description optimization to reduce biased language  
+**3. Ask clarifying questions:**
+- "What skills does this actually measure?"
+- "Are alternatives available?"
+- "How much weight does this carry in hiring decision?"
 
-**Blind Spot Analysis:** 🟢 LOW
-- Already trying to reduce bias in hiring
-- Focus on written language = different problem space than screening
+### During the Assessment
 
-**Improvement Potential:**
-- Your Job Description Decoder could be complementary
-- Could partner on neurodivergent-specific language patterns
+**1. If time is short:**
+- Focus on demonstrating understanding over completion
+- Comment your code thoroughly
+- Show your problem-solving process
 
-**Business Model:** SaaS subscription  
-**Partnership Viability:** ✅ STRONG
-- Complementary not competitive
-- Already in inclusive hiring space
+**2. If "think aloud" is required:**
+- It's okay to say "I need a moment to think"
+- You can summarize your approach before or after coding
+- Written comments in code can substitute for verbal
 
-**Strategic Value:** Tier 1 - Natural partner for Job Description Decoder
+**3. If you get stuck:**
+- Ask clarifying questions
+- Explain what you'd Google or research
+- Demonstrate real-world debugging approach
 
----
+### After the Assessment
 
-## Category 5: Neurodivergent-Focused Job Marketplaces
+**1. Follow up:**
+- Send a note explaining your approach
+- Offer to demonstrate skills differently
+- Provide portfolio links showing real work
 
-**What They Do:** Create separate hiring channels specifically for neurodivergent candidates. Work AROUND mainstream screening rather than fixing it.
-
-**Strategic Value:** Proves market demand, but represents fundamentally different approach from yours.
-
-**Key Insight:** CRITICAL CONCERN - Many use extractive/commodification framing (treating neurodivergent people as "untapped resources" for "productivity boosts"). This directly conflicts with your dignity-centered approach.
-
-**RED LINE:** Never partner with marketplaces that use extractive framing.
-
----
-
-### Framework: Identifying Extractive vs. Dignity-Centered Framing
-
-**🚩 RED FLAGS (Extractive/Commodification):**
-
-Language that treats neurodivergent people as resources:
-- "Untapped talent/resource/potential"
-- "Unlock/unleash/harness/activate" + any form of potential/strengths
-- "Access" (as in "access this talent pool")
-- Productivity metrics ("30% more productive," "increased innovation")
-
-Language that suggests superpowers:
-- "Neuroexceptional"
-- "Unique capabilities" (without noting everyone has unique capabilities)
-- "Special abilities"
-- "Cognitive advantages"
-
-Language focused on company benefit:
-- Business case framing ("Companies that hire neurodivergent people get X benefit")
-- ROI focus ("Hiring neurodivergent people increases your bottom line")
-- Competitive advantage ("Get ahead of competitors")
-- Explicit productivity/innovation gains as primary pitch
-
-**✅ GREEN FLAGS (Dignity-Centered):**
-
-Language that treats neurodivergent people as colleagues:
-- "Competence that goes unrecognized"
-- "Different processing styles"
-- "Communication mismatches"
-- "Career goals and aspirations"
-
-Language that acknowledges mutual benefit:
-- "Assessment methods that work for everyone"
-- "Fixing systematic communication failures"
-- "Fair evaluation"
-- "Both sides benefit" (not just companies)
-
-Language focused on fairness and rights:
-- "Deserve recognition for actual competence"
-- "Systematic exclusion" (problem framing, not opportunity framing)
-- "Career advancement opportunities"
-- "Sustainable employment"
-
-**THE LITMUS TEST:**
-Ask: "Does this framing make me feel like a..."
-- ❌ Resource to be mined?
-- ❌ Productivity hack for companies?
-- ❌ Source of competitive advantage?
-- ✅ Professional with career goals who deserves fair assessment?
+**2. If you're rejected:**
+- Request feedback (though you often won't get it)
+- Consider: Did this platform filter you out unfairly?
+- This may not be the right company culture anyway
 
 ---
 
-### Mentra (US)
-**Website:** https://www.mentra.com  
-**Location:** United States  
-**Type:** Neurodiversity employment network + job marketplace
+## Red Flags: When to Reconsider
 
-**Blind Spot Analysis:** 🔴 HIGH - IDEOLOGICAL CONFLICT
+**Platforms or companies that:**
+- Refuse any accommodations
+- Use AI facial/emotion analysis despite concerns
+- Insist on single assessment method
+- Won't explain what they're measuring or why
+- Claim their process is "perfectly objective"
 
-**Their Language (EXTRACTIVE FRAMING):**
-- "**Unleashing the cognitive strengths** of neurodivergents"
-- "**Streamlining access to untapped talent**"
-- "Activate their **neuroexceptional potential**"
-- "Teams can become **up to 30% more productive**"
-- "When the world's most diverse minds go overlooked, **society loses out on increased innovation and productivity**"
-
-**Why This Violates Core Principles:**
-
-This is EXACTLY what your Mission Statement warns against under "Dignity Over Commodification":
-- ❌ "Autism as competitive advantage" narratives (literally their pitch)
-- ❌ Savant framing ("neuroexceptional potential")
-- ❌ Positioning neurodivergent talent as "undervalued assets to exploit" ("untapped talent")
-- ❌ Reducing employees to their "productivity potential" ("30% more productive")
-
-**The Fundamental Difference:**
-- **Mentra:** Frames neurodivergent hiring as what companies GET (productivity boost, competitive advantage)
-- **You:** Frame it as what's fair and right (fixing systematic communication failures)
-
-**Why This Is Harmful:**
-1. Treats people as resources - "Untapped talent" like oil wells to be exploited
-2. Savant stereotyping - Sets up unrealistic expectations of "neuroexceptional" performance
-3. Reduces humans to ROI - The "30% more productive" metric treats people as productivity units
-4. Sets up disappointment - When neurodivergent employees are just... regular employees with accommodation needs
-5. Ignores career aspirations - All about what companies get, not what neurodivergent people WANT
-6. Creates extractive relationship - Companies see neurodivergent people as competitive advantage, not colleagues
-
-**Scale:** 44,000+ users, 35% monthly growth, Microsoft-backed, Forbes 30u30 founder
-
-**Partnership Viability:** ❌ IDEOLOGICAL CONFLICT + 🔄 COMPETITIVE THREAT
-- Fundamental values misalignment (commodification vs. dignity)
-- Their brand is BUILT on "productivity advantage" narrative
-- US-based = direct market overlap
-- Well-funded = could become competitive threat
-
-**Strategic Value:** Tier 3 - AVOID PARTNERSHIP
-- DO NOT want to be associated with extractive framing
-- Cannot collaborate without endorsing their commodification approach
-- Use as COUNTER-EXAMPLE: "This is the exploitation model we explicitly reject"
+**Remember:** A company that won't accommodate different cognitive styles during hiring likely won't accommodate them on the job.
 
 ---
 
-### NeuroBooster (Europe)
-**Website:** https://neurobooster.eu  
-**Location:** Europe  
-**Type:** AI-powered job matching for neurodivergent candidates
+## Know Your Rights
 
-**What They Do:**
-- Match neurodivergent candidates (ADHD, ASD, dyslexic) with inclusive employers
-- Show employers' "level of openness to neuro-inclusive practices"
-- Transparency about which companies are truly inclusive
+### In the United States:
+- ADA covers many neurodivergent conditions
+- Reasonable accommodations can include:
+  - Extra time
+  - Alternative assessment formats  
+  - Written vs. verbal communication
+  - Asynchronous vs. synchronous
 
-**Approach Difference:**
-- Creates **separate marketplace** for neurodivergent talent
-- Works around mainstream screening (doesn't fix it)
-- European presence (less competitive overlap)
-
-**Blind Spot Analysis:** 🟢 LOW (if dignity-centered)
-
-**Partnership Viability:** ⚠️ CAUTIOUS
-- Must verify they don't use extractive framing like Mentra
-- Different geographic focus (EU vs. US)
-- Could collaborate on employer evaluation frameworks
-
-**Due Diligence Required:**
-- Review their marketing to employers - ROI or fairness?
-- Check employer pitch deck - commodification or dignity?
-- Examine their framing - "productivity boost" or "fair assessment"?
-
-**Strategic Value:** Tier 2 - Complementary partner IF dignity-centered
+### Requesting Accommodations:
+You are not required to disclose your diagnosis, but:
+- Specific requests get better results ("I need X because Y")
+- Earlier is better than during/after assessment
+- Document all requests in writing
 
 ---
 
-## Strategic Recommendations
+## Alternative Approaches to Propose
 
-### Phase 1: Build Credibility (Months 1-6)
-**Focus: Category 3 (Technical Screening)**
+If you're asked to do an assessment that doesn't work for you:
 
-Why start here:
-- Your unquestionable technical credibility
-- Firsthand experience with assessments
-- Can speak engineer-to-engineer
-- Huge market (every tech company hires engineers)
-- Clear problem (algorithms ≠ real job skills)
+**Instead of algorithm tests:**
+- "Could I complete a project that demonstrates real-world skills?"
+- "May I share my GitHub portfolio?"
+- "Would you consider a pair programming session?"
 
-**Actions:**
-1. Deep-dive **Interviewing.io** (most aligned)
-2. Document **Codility/HackerRank** specific failure modes
-3. Build proof-of-concept alternative assessment
-4. Publish research on technical screening blind spots
+**Instead of live coding:**
+- "I work better asynchronously - could I submit a take-home challenge?"
+- "Could I code privately and explain my approach afterward?"
 
-### Phase 2: Scale Through Infrastructure (Months 6-12)
-**Focus: Category 1 (ATS Providers)**
-
-**Actions:**
-1. Approach **Greenhouse/Lever** with proven framework
-2. Position as integration partner
-3. Use Category 3 success as validation
-
-### Phase 3: Expand to General Screening (Year 2+)
-**Focus: Category 2**
-
-By now you have:
-- Technical credibility
-- Proven frameworks
-- Distribution partnerships
-
-**Actions:**
-1. Approach **Pymetrics** (research-oriented)
-2. Consider **HireVue** if regulatory pressure increases
-3. Avoid **SquarePeg** (local competitor)
+**Instead of video interviews:**
+- "Could we do a phone call instead?"
+- "May I provide written responses?"
+- "Would you consider a portfolio review with Q&A?"
 
 ---
 
-## Partnership Priorities
+## Contributing
 
-**Tier 1 (Engage Early):**
-1. **Interviewing.io** - Highest alignment in technical screening
-2. **Codility/HackerRank** - Your firsthand expertise
-3. **Karat** - Trainable human interviewers
-4. **Greenhouse/Lever** - Infrastructure distribution
-5. **Pymetrics** - Research-oriented, bias reduction focus
-6. **Textio** - Job Description Decoder partner
+This is a living document. If you have experiences with screening platforms (positive or negative), please share them so we can keep this guide updated and helpful.
 
-**Tier 2 (Medium Priority):**
-1. **Workable** - SMB market, faster adoption
-2. **Paraform/Candora** - Hybrid model, interesting but complex
-3. **HireVue** - ONLY if they acknowledge problems
-4. **NeuroBooster** - ONLY if dignity-centered framing verified
-
-**Tier 3 (Avoid / Use as Counter-Examples):**
-1. **Mentra** - Extractive framing, ideological conflict
-2. **SquarePeg** - Speed optimization amplifies bias, local competition
-3. **Candora standalone** - Automation-first, no human override
+**Contact:** [Add contact method when ready]
 
 ---
 
-## Key Strategic Insights
+## Disclaimer
 
-### Two Models, Different Approaches
-
-**Marketplace Model** (NeuroBooster, Mentra):
-- Creates separate hiring channel
-- Works AROUND broken mainstream screening
-- Immediate value for candidates
-- Limited systemic impact
-- Risk of extractive framing
-
-**Methodology Model** (Your Approach):
-- Fixes mainstream screening for EVERYONE
-- Changes how ALL companies assess ALL candidates
-- Longer timeline but broader systemic impact
-- Scales through existing infrastructure
-- Dignity-centered, not commodification
-
-### Competitive Differentiation
-
-**You're NOT:**
-- Selling neurodivergent people as productivity hacks
-- Creating special programs for special talent
-- Promising ROI or competitive advantage
-
-**You ARE:**
-- Fixing broken assessment systems that hurt everyone
-- Making competence visible across neurotypes
-- Treating neurodivergent professionals as colleagues with career goals
-- Engineer with firsthand experience, not diversity consultant theorizing
-
-### Red Line for Partnerships
-
-Never collaborate with organizations that:
-- Promise companies "productivity boosts" from hiring neurodivergent people
-- Use savant/superhero framing
-- Frame neurodivergent people as "untapped resources"
-- Reduce people to ROI metrics
-
-**Brand integrity depends on maintaining clear distinction:**
-- ❌ "Neurodivergent people as competitive advantage"
-- ✅ "Fair assessment methods that recognize actual competence"
+This guide reflects Unobscura's research and position on screening platforms as of January 2026. Individual experiences may vary. We are not affiliated with any of the platforms mentioned. Company policies and platform features may change.
 
 ---
 
-## Next Steps
+**About Unobscura:** We work to make competence visible across different cognitive processing styles, developing frameworks and technologies that improve hiring assessment for everyone.
 
-**Research Priorities:**
-1. **Interviewing.io** - Aline Lerner's writings on interview bias
-2. **Paraform/Candora** - How is AI integrated? Recruiter training?
-3. **NeuroBooster** - Verify framing before any contact
-4. Document specific technical screening failure modes
-5. Build proof-of-concept alternative assessment
-
-**Engagement Priorities:**
-1. Start with Category 3 (technical screening) - your strongest area
-2. Build relationships with Tier 1 partners
-3. Document Tier 3 companies as counter-examples
-4. Monitor HireVue regulatory battles (precedent for AI screening)
-
----
-
-_This is a living document. Update as we learn more about each company's approach._
+Learn more: [Add link when ready]
