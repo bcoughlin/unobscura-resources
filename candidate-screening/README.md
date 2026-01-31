@@ -1,20 +1,36 @@
-# Candidate Screening Reform
+# Candidate Screening Resources
 
-This folder contains research, analysis, and frameworks related to reforming candidate screening and hiring assessment methods.
+Public-facing resources to help neurodivergent job seekers navigate hiring assessment platforms.
 
-## Focus Area
+## What's Here
 
-Part of Unobscura's **Professional & Vocational Impact** focus area, specifically the **Candidate Screening Reform** sub-focus.
+### Platform Guides
+Information about common screening platforms used in hiring:
+- What to expect from each platform
+- Which are more neurodivergent-friendly
+- Accommodation strategies
+- Your rights
 
-## Contents
+### Purpose
 
-- Company analysis and competitive landscape
-- Assessment methodology research
-- Alternative evaluation frameworks
-- Industry patterns and blind spots
+Many companies use third-party platforms for technical assessments, video interviews, or other screening. These platforms can create barriers for neurodivergent candidates - not because of lack of competence, but because of how the platforms measure and evaluate.
 
-## Mission Alignment
+This guide helps you:
+- Understand what different platforms do
+- Know what to expect
+- Request appropriate accommodations
+- Make informed decisions
 
-> "Developing assessment frameworks that make competence visible across cognitive styles, building tools for job seekers navigating screening and companies seeking better evaluation methods, changing industry standards for technical and professional assessment, addressing systematic filtering of neurodivergent talent in hiring processes."
+## Current Resources
 
-— From Unobscura Mission Statement, Professional & Vocational Impact
+- **screening-company-analysis.md** - Comprehensive guide to screening platforms
+
+## Contributing
+
+Have experience with a screening platform? Your input helps keep this guide accurate and useful. Contact us: [Add when ready]
+
+---
+
+**About Unobscura:** We work to make competence visible across different cognitive processing styles. Part of our mission is helping neurodivergent professionals navigate systems designed without them in mind.
+
+Learn more about our work: [Add link when ready]
